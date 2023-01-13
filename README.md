@@ -1,6 +1,15 @@
 # E-Library
 
 Aplikasi pencatatan peminjaman dan pengembalian buku perpustakaan. 
+Aplikasi website perpustakaan adalah sebuah aplikasi yang dapat digunakan untuk mengelola koleksi buku, member, petugas, peminjaman dan pengembalian di perpustakaan. Aplikasi ini memudahkan pengelolaan perpustakaan dengan fitur-fitur seperti:
+
+- Peminjaman dan pengembalian buku
+- Pencarian buku berdasarkan kategori, judul, atau penulis
+- Pemantauan status peminjaman buku
+- Pembaruan koleksi buku
+
+Aplikasi ini dapat digunakan oleh pengelola perpustakaan maupun member perpustakaan. Member dapat mendaftar, mencari buku, dan melihat status peminjaman buku mereka melalui aplikasi ini. Sedangkan pengelola dapat mengelola koleksi buku, mengelola transaksi peminjaman, dan menghasilkan laporan dengan mudah melalui aplikasi ini. Aplikasi ini dikembangkan dengan menggunakan PHP dan MySQL, sehingga dapat digunakan pada berbagai platform.
+
 
 ## Requirements
 - PHP
